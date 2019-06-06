@@ -155,6 +155,11 @@ a.button:hover {
 	margin-bottom: 0px !important;
 }
 
+.section-subsublabel {
+	color:var(--red);
+	margin-bottom: 0px !important;
+}
+
 .section-content {
  width:90%;
  padding:10px;
