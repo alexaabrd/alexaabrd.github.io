@@ -67,6 +67,7 @@ body {
   float:right;
   text-align:right;
   padding: 10px;
+  padding-right: 20px;
 }
 
 a, a:visited, a:focus {
@@ -175,7 +176,7 @@ a.button:hover {
 /*--------------FOOTER-----------------*/
 
 .footer {
-  height:50px;
+  height:40px;
   width:100%;
   color:black;
   text-transform: uppercase;
@@ -185,12 +186,13 @@ a.button:hover {
 .subfooter {
   width:33%;
   height: 40px;
-  margin:auto;
   float:left;
-  padding-left:200px;
+  text-align: center;
 }
 
-
+.subfooter img {
+  height: 40px;
+}
 
 
 #logo {
